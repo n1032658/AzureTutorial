@@ -280,12 +280,158 @@ Examples:
 
 ---
 
-## Conclusion
+# Interview Questions – Answers
 
-Now you understand:
-- Cloud computing basics  
-- Deployment models  
-- Service models  
-- Azure fundamentals  
+---
 
-Great for beginners and interviews!
+## 1. Cloud Computing
+
+### What is cloud computing?
+Cloud computing is the delivery of computing services (servers, storage, databases, networking, and software) over the internet on a pay-as-you-go basis instead of using local hardware.
+
+---
+
+### Give real-life examples of cloud computing
+- Google Drive → storing files online  
+- Netflix → streaming content  
+- Gmail → web-based email service  
+
+---
+
+## 2. Features of Cloud Computing
+
+### What is elasticity?
+Elasticity is the ability to automatically scale resources up or down based on demand.
+
+Example:
+- Increasing servers during high traffic and reducing them afterward  
+
+---
+
+### Difference between scalability and elasticity?
+- **Scalability** → Increasing resources to handle growth (can be manual or planned)  
+- **Elasticity** → Automatic scaling in real-time based on demand  
+
+---
+
+### What is pay-as-you-go pricing?
+Users are charged only for the resources they use, similar to utility billing.
+
+Example:
+- Paying for the number of hours a virtual machine runs  
+
+---
+
+### How does cloud security work?
+Cloud providers offer built-in security features such as:
+- Data encryption  
+- Identity and access management (IAM)  
+- Firewalls and network security  
+- Multi-factor authentication (MFA)  
+
+---
+
+### What is resource pooling?
+Resource pooling means multiple users share the same cloud infrastructure, while their data remains isolated.
+
+---
+
+## 3. Deployment Models
+
+### Public vs Private Cloud
+- **Public Cloud** → Shared, owned by provider, accessible via internet  
+- **Private Cloud** → Dedicated to one organization, more secure and controlled  
+
+---
+
+### What is hybrid cloud?
+Hybrid cloud is a combination of public and private cloud where data and applications can move between them.
+
+Example:
+- Sensitive data in private cloud, applications in public cloud  
+
+---
+
+## 4. Service Models
+
+### Difference between IaaS, PaaS, SaaS?
+
+- **IaaS** → Provides infrastructure (VMs, storage); user manages OS and apps  
+- **PaaS** → Provides platform; user focuses on application development  
+- **SaaS** → Ready-to-use software; no management required  
+
+---
+
+### Which model gives most control?
+IaaS gives the most control because users manage OS, applications, and configurations.
+
+---
+
+## 5. Microsoft Azure
+
+### What is Microsoft Azure?
+Microsoft Azure is a cloud computing platform that provides services like computing, storage, networking, AI, and analytics.
+
+---
+
+### What are common use cases of Azure?
+- Web hosting  
+- Data storage  
+- AI and machine learning  
+- Data analytics  
+
+---
+
+### Give examples of Azure services
+- Web hosting → Azure App Service  
+- Storage → Azure Blob Storage  
+- AI → Azure Machine Learning  
+- Analytics → Azure Synapse Analytics  
+
+---
+
+## 6. Data Centers
+
+### What is a data center?
+A data center is a physical facility that contains servers, storage systems, and networking equipment used to run cloud services.
+
+---
+
+## 7 & 8. Regions and Availability Zones
+
+### What is an availability zone?
+An availability zone is a physically separate data center within a region designed for high availability and fault tolerance.
+
+---
+
+### Difference between region and zone?
+- **Region** → Geographic area (e.g., UK South)  
+- **Availability Zone** → Separate data centers within that region  
+
+---
+
+## 9. Azure Regions
+
+### Why is region selection important?
+- Reduces latency (closer to users)  
+- Helps meet compliance requirements  
+- Improves performance and availability  
+
+---
+
+## 10. Azure Services
+
+### Name Azure service categories
+- Compute  
+- Storage  
+- Networking  
+- Databases  
+- AI & Machine Learning  
+- Security  
+
+---
+
+### What is Azure Blob Storage?
+Azure Blob Storage is a service for storing large amounts of unstructured data such as images, videos, and documents.
+
+---
