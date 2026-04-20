@@ -15,14 +15,20 @@ Give real-life examples of cloud computing.
 ⭐ 2. Features of Cloud Computing
 🔹 Key Features
 On-demand self-service
+
 Create resources instantly without human interaction
 Broad network access
+
 Access services from any device
 Resource pooling
+
 Shared infrastructure for multiple users
 Rapid elasticity
+
 Scale resources up/down quickly
+
 Measured service (Pay-as-you-go)
+
 Pay only for what you use
 🎯 Interview Questions
 What is elasticity?
