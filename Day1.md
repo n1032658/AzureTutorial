@@ -8,6 +8,7 @@ Instead of owning physical hardware, you rent resources from providers like Micr
 Google Drive → store files online
 Netflix → stream videos
 Gmail → email service
+
 🎯 Interview Questions
 What is cloud computing?
 Give real-life examples of cloud computing.
