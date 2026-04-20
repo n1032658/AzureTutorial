@@ -10,8 +10,10 @@ Netflix → stream videos
 Gmail → email service
 
 🎯 Interview Questions
+
 What is cloud computing?
 Give real-life examples of cloud computing.
+
 ⭐ 2. Features of Cloud Computing
 🔹 Key Features
 On-demand self-service
