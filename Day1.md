@@ -148,19 +148,54 @@ Examples:
 
 ## 5. Microsoft Azure Introduction
 
-Microsoft Azure is a cloud computing platform offering 200+ services.
-
-### Use Cases
-- Web hosting  
-- Data storage  
-- AI and machine learning  
-- Analytics  
-
-### Interview Questions
-- What is Azure?
-- What services does Azure provide?
+Microsoft Azure is a cloud computing platform by Microsoft that provides 200+ services for building, deploying, and managing applications through global data centers.
 
 ---
+
+### Use Cases with Examples
+
+#### 1. Web Hosting
+You can host websites and web applications in Azure without managing servers.
+
+Examples:
+- Hosting an e-commerce website using Azure App Service  
+- Running a company website on Azure Virtual Machines  
+
+---
+
+#### 2. Data Storage
+Azure provides scalable and secure storage solutions for different types of data.
+
+Examples:
+- Storing images and videos in Azure Blob Storage  
+- Saving backups using Azure Storage Accounts  
+
+---
+
+#### 3. AI and Machine Learning
+Azure provides tools to build intelligent applications using AI.
+
+Examples:
+- Building a chatbot using Azure Bot Services  
+- Image recognition using Azure Cognitive Services  
+- Predicting sales using Azure Machine Learning  
+
+---
+
+#### 4. Analytics
+Azure helps process and analyze large amounts of data.
+
+Examples:
+- Real-time analytics using Azure Stream Analytics  
+- Data visualization using Power BI  
+- Big data processing using Azure Synapse Analytics  
+
+---
+
+### Interview Questions
+- What is Microsoft Azure?
+- What are common use cases of Azure?
+- Give examples of Azure services used for web hosting, storage, and AI.
 
 ## 6. Data Centers
 
